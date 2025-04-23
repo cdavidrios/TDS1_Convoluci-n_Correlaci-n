@@ -1,1 +1,1 @@
-# TDS1_Convoluci-n_Correlaci-n
+# TDS1_Convolución_Correlación
